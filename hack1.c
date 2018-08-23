@@ -9,6 +9,7 @@ hack 1
 int main(void){
 
     printf("Bradyn Dose\nComputer Engineering\n");
+    printf("Kelvin Wertz, computer engineering\n");
 
   return 0;
 }
